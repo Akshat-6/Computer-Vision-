@@ -46,4 +46,6 @@ Computer-Vision-/
 
 🔹 1. SIFT – Keypoint Detection & Matching
 
+Detects scale-invariant keypoints using SIFT.
+
 
