@@ -83,3 +83,6 @@ Images used: left01.jpg and left02.jpg
 
 
 Implementation of  Harris corner detector to find and visualize corners in a grayscale image.
+
+
+Applies Harris detector to grayscale image building.jpg.
