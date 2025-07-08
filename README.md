@@ -96,3 +96,4 @@ Displays corner locations overlaid on the image.
 💻 Technologies Used
 
 Python
+OpenCV
