@@ -139,3 +139,5 @@ Corner response function via Harris algorithm
 Add ORB and BRISK keypoint detectors
 
 Extend to video frame matching
+
+Use FLANN-based matcher for speed
