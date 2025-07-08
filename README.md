@@ -102,3 +102,5 @@ OpenCV
 NumPy
 
 Matplotlib
+
+Jupyter Notebook
