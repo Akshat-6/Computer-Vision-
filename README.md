@@ -90,3 +90,7 @@ Applies Harris detector to grayscale image building.jpg.
 Displays corner locations overlaid on the image.
 
 🧪 Result: Identifies strong corners with sub-pixel accuracy.
+
+
+
+💻 Technologies Used
