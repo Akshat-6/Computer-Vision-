@@ -46,6 +46,8 @@ Computer-Vision-/
 
 🔹 1. SIFT – Keypoint Detection & Matching
 
+Implementation of  SIFT algorithm to detect and match key points between two images.
+
 Detects scale-invariant keypoints using SIFT.
 
 Matches keypoints between:
