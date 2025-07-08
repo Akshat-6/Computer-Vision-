@@ -124,3 +124,5 @@ Image Transformation Estimation
 
 📌 Learnings
 
+How to detect robust and scale-invariant keypoints
+
