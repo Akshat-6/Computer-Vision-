@@ -65,4 +65,6 @@ Visualizes top matches using cv2.drawMatches().
 
 Applies RANSAC to filter outlier correspondences.
 
+Fits a homography transformation model.
+
 
