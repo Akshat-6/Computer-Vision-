@@ -22,6 +22,8 @@ Each module is implemented in a separate Jupyter Notebook, and tested on classic
 
 
 
+
+
 📌 Project Structure
 
 
@@ -38,6 +40,8 @@ Computer-Vision-/
 │   ├── left02.jpg
 │   └── building.jpg
 ├── README.md
+
+
 
 
 
@@ -93,6 +97,8 @@ Displays corner locations overlaid on the image.
 
 
 
+
+
 💻 Technologies Used
 
 Python
@@ -104,6 +110,8 @@ NumPy
 Matplotlib
 
 Jupyter Notebook
+
+
 
 
 
@@ -122,6 +130,8 @@ Image Transformation Estimation
 
 
 
+
+
 📌 Learnings
 
 How to detect robust and scale-invariant keypoints
@@ -132,6 +142,8 @@ Visualizing matched keypoints using OpenCV
 Removing noisy/outlier correspondences using RANSAC
 
 Corner response function via Harris algorithm
+
+
 
 
 🚀 Future Enhancements
