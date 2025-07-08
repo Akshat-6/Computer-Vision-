@@ -55,3 +55,7 @@ box.png and box_in_scene.png
 graf1.png and graf3.png
 
 
+Visualizes top matches using cv2.drawMatches().
+
+🧪 Result: Reliable matching even with rotation/scale change.
+
