@@ -128,3 +128,5 @@ How to detect robust and scale-invariant keypoints
 
 
 Visualizing matched keypoints using OpenCV
+
+Removing noisy/outlier correspondences using RANSAC
