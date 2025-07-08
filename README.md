@@ -88,3 +88,5 @@ Implementation of  Harris corner detector to find and visualize corners in a gra
 Applies Harris detector to grayscale image building.jpg.
 
 Displays corner locations overlaid on the image.
+
+🧪 Result: Identifies strong corners with sub-pixel accuracy.
