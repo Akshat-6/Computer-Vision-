@@ -24,3 +24,19 @@ Each module is implemented in a separate Jupyter Notebook, and tested on classic
 
 📌 Project Structure
 
+
+Computer-Vision-/
+├── SIFT_Keypoint_Matching.ipynb
+├── RANSAC_Outlier_Removal.ipynb
+├── Harris_Corner_Detection.ipynb
+├── images/
+│   ├── box.png
+│   ├── box_in_scene.png
+│   ├── graf1.png
+│   ├── graf3.png
+│   ├── left01.jpg
+│   ├── left02.jpg
+│   └── building.jpg
+├── README.md
+
+
