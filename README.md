@@ -50,4 +50,8 @@ Detects scale-invariant keypoints using SIFT.
 
 Matches keypoints between:
 
+box.png and box_in_scene.png
+
+graf1.png and graf3.png
+
 
