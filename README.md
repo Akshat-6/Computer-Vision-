@@ -141,3 +141,5 @@ Add ORB and BRISK keypoint detectors
 Extend to video frame matching
 
 Use FLANN-based matcher for speed
+
+Compare with modern detectors like SIFT vs ORB vs AKAZE
