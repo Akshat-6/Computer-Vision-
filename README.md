@@ -63,6 +63,6 @@ Visualizes top matches using cv2.drawMatches().
 
 🔹 2. RANSAC – Outlier Removal from Matches
 
-
+Applies RANSAC to filter outlier correspondences.
 
 
