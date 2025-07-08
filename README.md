@@ -100,3 +100,5 @@ Python
 OpenCV
 
 NumPy
+
+Matplotlib
