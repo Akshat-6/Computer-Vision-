@@ -65,6 +65,10 @@ Visualizes top matches using cv2.drawMatches().
 
 🔹 2. RANSAC – Outlier Removal from Matches
 
+
+Using RANSAC to remove outlier key point matches and fit a transformation model between two images.
+
+
 Applies RANSAC to filter outlier correspondences.
 
 Fits a homography transformation model.
