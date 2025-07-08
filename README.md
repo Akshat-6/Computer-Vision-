@@ -137,3 +137,5 @@ Corner response function via Harris algorithm
 🚀 Future Enhancements
 
 Add ORB and BRISK keypoint detectors
+
+Extend to video frame matching
