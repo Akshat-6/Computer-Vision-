@@ -1,4 +1,5 @@
 # Computer-Vision-
+
 Implementation of SIFT, RANSAC, and Harris Corner Detection using OpenCV to detect keypoints, filter matches, and identify strong corners in images.
 
 
@@ -6,5 +7,8 @@ Implementation of SIFT, RANSAC, and Harris Corner Detection using OpenCV to dete
 
 
 This repository showcases the implementation of three foundational algorithms in Computer Vision using OpenCV:
+
+
+SIFT (Scale-Invariant Feature Transform)
 
 
