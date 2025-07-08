@@ -108,3 +108,6 @@ Jupyter Notebook
 
 
 🌟 Key Concepts Covered
+
+
+Feature Detection
