@@ -14,3 +14,4 @@ SIFT (Scale-Invariant Feature Transform)
 
 RANSAC (Random Sample Consensus)
 
+Harris Corner Detection
