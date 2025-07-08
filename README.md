@@ -59,3 +59,10 @@ Visualizes top matches using cv2.drawMatches().
 
 🧪 Result: Reliable matching even with rotation/scale change.
 
+
+
+🔹 2. RANSAC – Outlier Removal from Matches
+
+
+
+
