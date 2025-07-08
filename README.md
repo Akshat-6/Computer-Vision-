@@ -12,3 +12,5 @@ This repository showcases the implementation of three foundational algorithms in
 SIFT (Scale-Invariant Feature Transform)
 
 
+RANSAC (Random Sample Consensus)
+
