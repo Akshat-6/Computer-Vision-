@@ -20,3 +20,7 @@ Harris Corner Detection
 
 Each module is implemented in a separate Jupyter Notebook, and tested on classic benchmark images.
 
+
+
+📌 Project Structure
+
